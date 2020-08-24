@@ -7,7 +7,6 @@
 2. Download unity-xr-plugin
 3. Start a new Unity Project
 4. Setup Unity to use OpenVR Unity XR Plugin
-
 5. Import SteamVR (Asset Store / Package Manager)
 6. Add Simple VR Rig to Sample URP Scene
 
